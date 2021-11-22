@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #E6E1C2;
+}
+
+#Peru{
+    width: 10vw;
+    height: 12vh;
+    position: absolute;
+    top: 0px;
+}
+
+#Name{
+    font-family: "Abril Fatface";
+    color: #1D01FD;
+    border-left: 3px #1D01FD;
+    font-size: 1.9vw;
+    position: absolute;
+    padding-top: 2vh;
+    width: 27vw;
+    padding-left: 10px;
+    height: 12vh;
+    left: 10vw;
+    background-color: lightslategrey;
+}
+
+#logo{
+    position: absolute;
+    top: 18vh;
+    left: 1vw;
+    height: 45vh;
+    width: 33vw;
+}
+
+#logo img{
+    width: 100%;
+    height: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+}
+
+#navbar{
+    position: absolute;
+    padding-top: 10px;
+    left: 34vw;
+    height: 12vh;
+    width: 64.4vw;
+    font-size: 2.32vw;
+    align-items: center;
+    background-color: lightslategrey;
+}
+
+#navbar ul{
+    list-style: none;
+    overflow: hidden;
+}
+
+#navbar li{
+    float: left;
+    justify-content: space-around;
+}
+
+#navbar li a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 2vw;
+    color: black;
+}
+
+#navbar li a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+#thin{
+    background-color: #ee5c7b;
+    position: absolute;
+    top: 12vh;
+    height: 35px;
+    width: 98.4vw;
+    padding-top: 6px;
+    padding-left: 2vw;
+    color: white;
+    font-size: 20px;
+}
+
+#title{
+    position: absolute;
+    top: 20vh;
+    left: 33vw;
+    font-weight: bold;
+    color: #1D01FD;
+    font-size: 28px;
+}
+
+#foto1 img{
+    position: absolute;
+    left: 26vw;
+    top: 30vh;
+    height: 50vh;
+    width: 50vw;
+}
+
+#foto1Text{
+    position: absolute;
+    top: 80vh;
+    left: 26vw;
+    width: 50vw;
+    height: 15vh;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#foto2 img{
+    position: absolute;
+    left: 26vw;
+    top: 120vh;
+    height: 50vh;
+    width: 50vw;
+}
+
+#foto2Text{
+    position: absolute;
+    top: 170vh;
+    left: 26vw;
+    width: 50vw;
+    height: 15vh;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#foto3 img{
+    position: absolute;
+    left: 26vw;
+    top: 200vh;
+    height: 50vh;
+    width: 50vw;
+}
+
+#foto3Text{
+    position: absolute;
+    top: 250vh;
+    left: 26vw;
+    width: 50vw;
+    height: 15vh;
+    text-align: center;
+    padding-top: 10px;
+}
