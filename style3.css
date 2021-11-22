@@ -1,0 +1,242 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-position: center;
+    background-image: url("C:/Users/cgusti01/Box/Web Dev Work/IAP Website/Images/OpaqueMountains.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#Peru{
+    width: 10vw;
+    height: 12vh;
+    position: absolute;
+    top: 0px;
+}
+
+#Name{
+    font-family: "Abril Fatface";
+    color: #1D01FD;
+    border-left: 3px #1D01FD;
+    font-size: 2vw;
+    position: absolute;
+    padding-top: 2vh;
+    width: 27vw;
+    height: 12vh;
+    left: 10vw;
+    background-color: lightslategrey;
+}
+
+#logo{
+    position: absolute;
+    top: 18vh;
+    left: 1vw;
+    height: 45vh;
+    width: 320px;
+}
+
+#logo img{
+    width: 100%;
+    height: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+}
+
+#navbar{
+    position: absolute;
+    padding-top: 1.9vh;
+    left: 35vw;
+    height: 12vh;
+    width: 63.2vw;
+    font-size: 2.32vw;
+    align-items: center;
+    background-color: lightslategrey;
+}
+
+#navbar ul{
+    list-style: none;
+    overflow: hidden;
+}
+
+#navbar li{
+    float: left;
+    justify-content: space-around;
+}
+
+#navbar li a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 2vw;
+    color: black;
+}
+
+#navbar li a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+#sobre{ 
+    position: absolute;
+    top: 100vh;
+    left: 4vw;
+    width: 90vw;
+    height: fit-content;
+    font-size: 2.37vw;
+    color: black;
+    background-color: lightslategray;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#thin{
+    background-color: #ee5c7b;
+    position: absolute;
+    top: 12vh;
+    height: 35px;
+    width: 98.2vw;
+    padding-top: 6px;
+    padding-left: 2vw;
+    color: white;
+    font-size: 20px;
+}
+
+#titleDiv{
+    position: absolute;
+    top: 75vh;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    -webkit-text-stroke: 1.1px black;
+    text-align: center;
+    width: 98.2vw;
+    height: 100px;
+}
+
+#titleText{
+    text-align: center;
+}
+
+#fotos{
+    position: absolute;
+    top: 150vh;
+    left: 36vw;
+    color: white;
+    font-size: 3.95vw;
+    -webkit-text-stroke: 1.1px black;
+    font-weight: bold;
+}
+
+#foto1{
+    position: absolute;
+    top: 160vh;
+    left: 6vw;
+    width: 35vw;
+    height: 30vh;
+    color: white;
+    font-size: 28px;
+}
+
+#foto1 img{
+    width: 100%;
+    height: 100%;
+}
+
+#foto2{
+    position: absolute;
+    top: 160vh;
+    left: 58vw;
+    width: 35vw;
+    height: 30vh;
+    color: white;
+    font-size: 28px;
+}
+
+#foto2 img{
+    width: 100%;
+    height: 100%;
+}
+
+#foto3{
+    position: absolute;
+    top: 200vh;
+    left: 30vw;
+    width: 40vw;
+    height: 60vh;
+    color: white;
+    font-size: 28px;
+}
+
+#foto3 img{
+    width: 100%;
+    height: 100%;
+}
+
+footer{
+    position: absolute;
+    top: 280vh;
+    width: 98.2vw;
+    height: 50vh;
+    background-color: #dfc97a
+}
+
+#footerLogo{
+    position: absolute;
+    bottom: 0vh;
+    left: 28vw;
+    width: 40vw;
+    height: 50vh;
+}
+  
+#footerLogo img{
+    width: 100%;
+    height: 100%;
+}
+
+#links{
+    position: absolute;
+    bottom: 15vh;
+    left: 10vw;
+    font-size: 20px;
+}
+
+#links ul{
+    list-style: none;
+}
+
+#links li a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#links li a:link{
+    color:  #025BBA;
+}
+
+#links li a:hover{
+    color: white;
+}
+
+#links li a:visited{
+    color: #025BBA;
+}
+
+#links li a:visited:hover{
+    color: white;
+}
+
+#blog{
+    position: absolute;
+    bottom: 17vh;
+    left: 70vw;
+    width: 28vw;
+    height: 20vh;
+    font-size: 20px;
+}
