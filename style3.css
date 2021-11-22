@@ -7,7 +7,7 @@
 
 body{
     background-position: center;
-    background-image: url("Photos/OpaqueMountains.jpg");
+    background-image: url("Photos\OpaqueMountains.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
