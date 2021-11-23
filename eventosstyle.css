@@ -5,6 +5,11 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 body{
     background-position: center;
     background-attachment: fixed;
@@ -55,7 +60,7 @@ body{
     padding-top: 1.5vh;
     left: 34vw;
     height: 12vh;
-    width: 64vw;
+    width: 66vw;
     font-size: 2.32vw;
     align-items: center;
     background-color: lightslategrey;
@@ -89,7 +94,7 @@ body{
     position: absolute;
     top: 12vh;
     height: 35px;
-    width: 98vw;
+    width: 100vw;
     padding-top: 6px;
     padding-left: 2vw;
     color: white;
@@ -108,7 +113,7 @@ body{
 .container{
     position: absolute;
     top: 40vh;
-    width: 98vw;
+    width: 100vw;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
