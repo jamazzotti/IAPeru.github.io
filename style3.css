@@ -5,6 +5,11 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 body{
     background-position: center;
     background-image: url("Photos/OpaqueMountains.jpg");
@@ -54,7 +59,7 @@ body{
     padding-top: 1.9vh;
     left: 35vw;
     height: 12vh;
-    width: 63.2vw;
+    width: 65vw;
     font-size: 2.32vw;
     align-items: center;
     background-color: lightslategrey;
@@ -101,7 +106,7 @@ body{
     position: absolute;
     top: 12vh;
     height: 35px;
-    width: 98.2vw;
+    width: 100vw;
     padding-top: 6px;
     padding-left: 2vw;
     color: white;
@@ -116,7 +121,7 @@ body{
     font-weight: bold;
     -webkit-text-stroke: 1.1px black;
     text-align: center;
-    width: 98.2vw;
+    width: 100vw;
     height: 100px;
 }
 
@@ -182,7 +187,7 @@ body{
 footer{
     position: absolute;
     top: 280vh;
-    width: 98.2vw;
+    width: 100vw;
     height: 50vh;
     background-color: #dfc97a
 }
