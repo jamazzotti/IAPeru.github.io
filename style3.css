@@ -134,7 +134,7 @@ body{
     top: 150vh;
     left: 36vw;
     color: white;
-    font-size: 3.95vw;
+    font-size: 2vw;
     -webkit-text-stroke: 1.1px black;
     font-weight: bold;
 }
@@ -146,7 +146,7 @@ body{
     width: 35vw;
     height: 30vh;
     color: white;
-    font-size: 28px;
+    font-size: 25px;
 }
 
 #foto1 img{
@@ -161,7 +161,7 @@ body{
     width: 35vw;
     height: 30vh;
     color: white;
-    font-size: 28px;
+    font-size: 25px;
 }
 
 #foto2 img{
@@ -176,7 +176,7 @@ body{
     width: 40vw;
     height: 60vh;
     color: white;
-    font-size: 28px;
+    font-size: 25px;
 }
 
 #foto3 img{
@@ -209,7 +209,7 @@ footer{
     position: absolute;
     bottom: 15vh;
     left: 10vw;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 #links ul{
