@@ -94,7 +94,7 @@ body{
     left: 4vw;
     width: 90vw;
     height: fit-content;
-    font-size: 2.37vw;
+    font-size: 1.5vw;
     color: black;
     background-color: lightslategray;
     padding: 15px;
@@ -117,7 +117,7 @@ body{
     position: absolute;
     top: 75vh;
     color: white;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
     -webkit-text-stroke: 1.1px black;
     text-align: center;
