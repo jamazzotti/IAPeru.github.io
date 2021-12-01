@@ -18,7 +18,7 @@ function getDate(){
     monthNames[10] = "Noviembre";
     monthNames[11] = "Diciembre";
 
-    document.getElementById("thin").innerHTML = "El " + d + " de" + " " + monthNames[m] + " de " + y;
+    document.getElementById("thin").innerHTML =  d + " de" + " " + monthNames[m] + " de " + y;
 }
 
 function writeToFile(passForm) {
