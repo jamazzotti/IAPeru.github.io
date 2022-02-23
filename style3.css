@@ -210,6 +210,7 @@ footer{
     bottom: 15vh;
     left: 10vw;
     font-size: 17px;
+    color: #FFFFFF;
 }
 
 #links ul{
@@ -222,7 +223,7 @@ footer{
 }
 
 #links li a:link{
-    color:  #025BBA;
+    color:  #FFFFFF;
 }
 
 #links li a:hover{
