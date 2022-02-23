@@ -106,7 +106,8 @@ body{
     top: 21vh;
     font-weight: bold;
     color: black;
-    font-size: 3vw;
+    font-size: 2.5vw;
+    left: 20vw;
     text-align: center;
 }
 
@@ -134,7 +135,6 @@ body{
     height: fit-content;
     width: 90vw;
     font-size: 2.5vw;
-    font-style: italic;
     color: black;
     padding-top: 10px;
     padding-bottom: 10px;
