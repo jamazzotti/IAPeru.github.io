@@ -26,7 +26,7 @@ body{
 
 #Name{
     font-family: "Abril Fatface";
-    color: #1D01FD;
+    color: #191970;
     border-left: 3px #1D01FD;
     font-size: 1.7vw;
     position: absolute;
@@ -90,7 +90,7 @@ body{
 }
 
 #thin{
-    background-color: #954535;
+    background-color: #191970;
     position: absolute;
     top: 12vh;
     height: 35px;
